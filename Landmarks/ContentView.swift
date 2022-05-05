@@ -18,7 +18,7 @@ struct ContentView: View {
                 .padding(.bottom, -130)
             
             VStack (alignment: .leading){
-                Text("Hi, Im Matheus")
+                Text("Hi, Im Matheus Dias")
                     .font(.title).fontWeight(.black).foregroundColor(.blue)
             }
             HStack {
